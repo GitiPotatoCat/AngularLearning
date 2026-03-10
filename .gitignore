@@ -43,6 +43,7 @@ node_modules/
 # ============================================
 # Visual Studio 2026 Community (future-proof)
 # ============================================
+.vs/
 
 # User-specific files
 *.suo
